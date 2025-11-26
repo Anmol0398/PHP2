@@ -1,0 +1,5 @@
+1. Create account in Github.com
+2. Create a repo called scripting language
+3. Know about pull/add/commit/push
+
+for basic form validation
